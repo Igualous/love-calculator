@@ -85,6 +85,7 @@ footer {
     height: 5vh;
     background-color: #aaa;
     display: flex;
+    align-items: center;
     justify-content: space-between;
     padding: 0px;
 }
