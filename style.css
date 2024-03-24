@@ -6,7 +6,7 @@ body {
 }
 .container {
     width: 100vw;
-    height: auto;
+    height: 98vh;
     background-image: url("https://m.media-amazon.com/images/S/pv-target-images/b129cd5642805370f7056ff7c077b532a7b5f1bfd66c3b68a0d9c68448c429ea._SX1080_FMjpg_.jpg");
     opacity: 1.0;
     background-size: cover;
